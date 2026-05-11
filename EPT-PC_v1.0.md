@@ -1,4 +1,4 @@
-# EPT-PC - v1.0 (Draft)
+# EPT-PC - v1.0 (First Draft)
 
 This is the first version of the tool, shared here for feedback purposes only. It is not yet ready for operational use.
 
